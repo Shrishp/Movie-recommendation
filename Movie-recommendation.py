@@ -380,6 +380,9 @@ new_df.iloc[1216].title
 
 # In[ ]:
 
+recommend('Avatar')
+recommend('Avengers: Age of Ultron')
+
 
 
 
